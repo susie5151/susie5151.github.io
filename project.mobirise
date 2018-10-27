@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "8833",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -594,7 +594,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 1",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1078,7 +1078,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Page 2",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
